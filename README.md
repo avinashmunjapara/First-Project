@@ -1,3 +1,3 @@
 # First-Project
-This is my first project on Github.
-Author: Avinash Munjapara
+<h2>This is my first project on Github.</h2>
+<p><strong>Author:</strong> Avinash Munjapara</p>
